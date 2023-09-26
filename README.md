@@ -1,7 +1,3 @@
-**# ConnectTel Customer Churn Prediction Project**
-
-In this project, I leveraged advanced analytics and machine learning techniques to help ConnectTel, a leading telecommunications company, predict customer churn more accurately. By reducing customer attrition, I aimed to enhance customer loyalty and maintained a competitive edge in the dynamic telecom industry. Follow along to explore my approach and results!
-
 # ConnectTel Telecom Customer Churn Prediction
 ConnectTel is a leading telecommunications company at the forefront of innovation and connectivity solutions. With a strong presence in the global market, ConnectTel has established itself as a trusted provider of reliable voice, data, and Internet services. Offering a comprehensive range of telecommunications solutions, including mobile networks, broadband connections, and enterprise solutions, ConnectTel caters to both individual and corporate customers. They are committed to providing exceptional customer service and cutting-edge technology, ensuring seamless communication experiences for millions of users worldwide. Through strategic partnerships and a customer-centric approach, ConnectTel continues to revolutionize the telecom industry, empowering individuals and businesses to stay connected and thrive in the digital age.
 
